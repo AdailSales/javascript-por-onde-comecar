@@ -7,6 +7,10 @@ Repositório criado com o objetivo de reunir e organizar os materiais **gratuito
 
 [Curso Grátis de JavaScript e ECMAScript para Iniciantes do Canal Curso em Vídeo](https://www.youtube.com/playlist?list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1)
 
+[Curso Introdutório de JavaScript da Trybe](https://www.youtube.com/playlist?list=PLP6Z8YhN_d5RpQwAMZLALAO7neDy7ypCA)
+
+[Curso de Node.Js do Canal Guia do Programador](https://www.youtube.com/playlist?list=PLJ_KhUnlXUPtbtLwaxxUxHqvcNQndmI4B)
+
 ## AVA - Ambiente Virtual de Aprendizagem
 
 [B7Web](https://alunos.b7web.com.br/login)
