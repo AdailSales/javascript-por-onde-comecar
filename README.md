@@ -5,7 +5,7 @@ Repositório criado com o objetivo de reunir e organizar os materiais **gratuito
 
 ## YouTube
 
-[Curso Grátis de JavaScript e ECMAScript para Iniciantes do Canal Curso em Vídeo](https://www.youtube.com/watch?v=vEOEZ03ZyiE&list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1)
+[Curso Grátis de JavaScript e ECMAScript para Iniciantes do Canal Curso em Vídeo](https://www.youtube.com/playlist?list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1)
 
 ## AVA - Ambiente Virtual de Aprendizagem
 
