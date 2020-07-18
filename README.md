@@ -5,23 +5,15 @@ Repositório criado com o objetivo de reunir e organizar os materiais **gratuito
 
 ## YouTube
 
-[Curso Grátis de JavaScript e ECMAScript para Iniciantes][CursoemVideo]
-[CursoemVideo]: 
-https://www.youtube.com/watch?v=vEOEZ03ZyiE&list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1
+[Curso Grátis de JavaScript e ECMAScript para Iniciantes do Canal Curso em Vídeo](https://www.youtube.com/watch?v=vEOEZ03ZyiE&list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1)
 
 ## AVA - Ambiente Virtual de Aprendizagem
 
-[B7Web][b7web]
-[b7web]: 
-https://alunos.b7web.com.br/login
+[B7Web](https://alunos.b7web.com.br/login)
 
-[Rocketseat][rocketseat]
-[rocketseat]: 
-https://rocketseat.com.br/starter
+[Rocketseat](https://rocketseat.com.br/starter)
 
 ## Canais no Telegram
 
-[Livros de TI][livrosti]
-[livrosti]: 
-https://t.me/booksti
+[Livros de TI](https://t.me/booksti)
 
